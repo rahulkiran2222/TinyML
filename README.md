@@ -888,3 +888,18 @@ See [LICENSE](LICENSE) for the full text.
 <p align="center">
   <b>⭐ If this workshop helped you learn something new, give it a star! ⭐</b>
 </p>
+
+## 💡 Making This Repository Stand Out
+
+| What to Add | Why It Impresses | How |
+|-------------|-----------------|-----|
+| **🎬 Manim Explainer Video** | Shows 3Blue1Brown-level effort; professors LOVE animated math/CS content | Use the Manim scripts in `video/` folder; embed YouTube link in README |
+| **📽️ Workshop Slides** | Professors can directly adopt your workshop for their class | Upload PDF/PPTX to `docs/workshop_slides/` |
+| **📸 Build Photos** | Proves you actually built it, not just wrote code | Add photos to `assets/photos/` |
+| **🎥 Demo Video** | 10-second GIF of LEDs reacting to hand motion | Record with phone, convert to GIF, embed at top of README |
+| **📊 Results Plot** | Training accuracy/loss curves show rigor | Export from Colab, add to `assets/` |
+| **📝 Cite This Work** | Professors respect academic citation norms | Add BibTeX block (see below) |
+| **🏷️ GitHub Topics** | Makes repo discoverable | Add: `tinyml`, `esp32`, `tensorflow-lite`, `embedded-ml`, `workshop` |
+| **⚙️ GitHub Actions CI** | Shows engineering maturity | Lint Python code on every push |
+
+### Cite This Work
