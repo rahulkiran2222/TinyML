@@ -878,7 +878,7 @@ See [LICENSE](LICENSE) for the full text.
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Built_by_ECE_Students,_for_ECE_Students-🎓-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Built_by_Rahul,_for_ECE_Students-🎓-blue?style=for-the-badge" />
 </p>
 
 <p align="center">
